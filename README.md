@@ -10,6 +10,8 @@
   - [Landing page + waitlist system for the Campus Marketplace app.](https://bellsbuywaitlist.pages.dev/)
   - [Github repo)](https://github.com/kingwillyo/bellsbuywaitlist.git)
 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kingwillyo&show_icons=true&locale=en&layout=compact" alt="kingwillyo" /></p>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
