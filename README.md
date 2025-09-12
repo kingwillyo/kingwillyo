@@ -7,7 +7,7 @@
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
   - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/kingwillyo/Maze-Solving-Robot.git)
 - <b>Waitlist Website for Marketplace (Html / Css / Javascript)</b>
-  - [Landing page + waitlist system for the Campus Marketplace app.](https://http://bellsbuywaitlist.pages.dev/)
+  - [Landing page + waitlist system for the Campus Marketplace app.](https://bellsbuywaitlist.pages.dev/)
   - [Github repo)](https://github.com/kingwillyo/bellsbuywaitlist.git)
 
 <h2> 🤳 Connect with me:</h2>
