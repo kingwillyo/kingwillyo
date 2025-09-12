@@ -5,17 +5,17 @@
 - <b>Campus Marketplace (React / Expo / Supabase)</b>
   - [A mobile-first marketplace for university communities. Features product posting, image uploads, auth, and a lightweight order flow.](https://github.com/kingwillyo/Marketplace.git)
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
-  - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/kingwillyo/Maze-Solving-Robot.git)
 - <b>Waitlist Website for Marketplace (Html / Css / Javascript)</b>
   - [Landing page + waitlist system for the Campus Marketplace app.](https://http://bellsbuywaitlist.pages.dev/)
   - [Github repo)](https://github.com/kingwillyo/bellsbuywaitlist.git)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/itskingwillyo
 [youtube]: https://www.youtube.com/@Productivewill
