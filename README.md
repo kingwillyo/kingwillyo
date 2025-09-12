@@ -5,10 +5,10 @@
 - <b>Campus Marketplace (React / Expo / Supabase)</b>
   - [A mobile-first marketplace for university communities. Features product posting, image uploads, auth, and a lightweight order flow.](https://github.com/kingwillyo/Marketplace.git)
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
-  - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Waitlist Website for Marketplace</b>
+  - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Waitlist Website for Marketplace (Html / Css / Javascript)</b>
   - [Landing page + waitlist system for the Campus Marketplace app.](https://http://bellsbuywaitlist.pages.dev/)
-  - [Github repo)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Github repo)](https://github.com/kingwillyo/bellsbuywaitlist.git)
 
 <h2> 🤳 Connect with me:</h2>
 
