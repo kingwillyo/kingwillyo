@@ -1,4 +1,4 @@
-<h1>Hi, I'm Will! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software developer</a>, <a href="https://www.youtube.com/@Productivewill">Content Creator</a></h1>
+<h1>Hi, I'm Will! <br/><a href="https://github.com/kingwillyo">Programmer</a>, <a href="https://www.linkedin.com/in/okhakumhe-will-26a533354/">Software developer</a>, <a href="https://www.youtube.com/@Productivewill">Content Creator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
