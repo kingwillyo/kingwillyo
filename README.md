@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Campus Marketplace (React Naitive / Typescript / Expo / Supabase)</b>
+- <b>BellBuy Campus Marketplace (React Naitive / Typescript / Expo / Supabase)</b>
   - [A mobile-app marketplace for university communities. Features product posting, image uploads, auth, and a lightweight order flow.](https://github.com/kingwillyo/Marketplace.git)
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
   - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/kingwillyo/Maze-Solving-Robot.git)
