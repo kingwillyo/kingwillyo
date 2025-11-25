@@ -7,7 +7,7 @@
 - <b>Focus Fire (React Naitive / Typescript / Expo / Supabase)</b>
   - [FocusFire is a minimalist productivity app designed to help students and creators stay disciplined, avoid distractions, and build long-term focus streaks.](https://github.com/kingwillyo/Focus-fire.git)
 - <b>Wallet App (React Naitive / Typescript / Expo / Supabase)</b>
-  - [A modern and beautifully-designed **digital wallet & finance management mobile app**, inspired by the Figma design provided. Built with **React Native (Expo)**, this application allows users to manage their finances, track spending, handle payments, and monitor card activities — all with an elegant, intuitive UI.](https://github.com/kingwillyo/wallet.git)
+  - [A modern and beautifully-designed **digital wallet & finance management mobile app**, inspired by the Figma design provided. Built with **React Native (Expo)**, this application allows users to manage their finances, track spending, handle payments, and monitor card activities — all with an elegant, intuitive UI.](https://github.com/kingwillyo/wallet-app.git)
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
   - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/kingwillyo/Maze-Solving-Robot.git)
 - <b>Waitlist Website for Marketplace (Html / Css / Javascript)</b>
