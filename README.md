@@ -4,6 +4,8 @@
 
 - <b>BellBuy Campus Marketplace (React Naitive / Typescript / Expo / Supabase)</b>
   - [A mobile-app marketplace for university communities. Features product posting, image uploads, auth, and a lightweight order flow.](https://github.com/kingwillyo/Marketplace.git)
+- <bFocus Fire (React Naitive / Typescript / Expo / Supabase)</b>
+  - [FocusFire is a minimalist productivity app designed to help students and creators stay disciplined, avoid distractions, and build long-term focus streaks.](https://github.com/kingwillyo/Focus-fire.git)
 - <b>Maze-Solving Robot (Proteus + Arduino Uno)</b>
   - [Simulation of an autonomous robot designed in Proteus and programmed with Arduino IDE.](https://github.com/kingwillyo/Maze-Solving-Robot.git)
 - <b>Waitlist Website for Marketplace (Html / Css / Javascript)</b>
